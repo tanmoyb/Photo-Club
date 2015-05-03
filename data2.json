@@ -1,0 +1,50 @@
+{
+  "speakers": [{
+    "title" : "Memories",
+    "name": "Tanmoy zadid",
+    "shortname" : "Tanmoy",
+    "summary" : "First of all, just remind yourself that it’s okay to think about something other than photography for a little while! Allowing your mind to take some time off will relieve the stress and tension that builds the scaffolding for creative blocks. Instead, devote some time to exploring other art forms to feed your creative soul – go watch a play, listen to music, check out a museum, or read some poetry. All of these experiences feed the muse, where they become thoughts, which associate with other thoughts, to then become new ideas",
+    "description": "<p> But how do you know what to do, if you’ve never done it before? For inspiration, see what other people are doing. Look at pictures from other visual artists that you admire, or find a photography exhibit at a local gallery or museum. Go to the library and flip through photo books. Absorb as much as you can. Which photographers do you like best? What is it that you like about each of them, and what do they all have in common? Think about how each photograph was created and ask yourself: which direction is the light coming from? What focal length, aperture, and shutter speed do you think were used? </p>",
+    "artwork": ["Lorenzo_Garcia_01_tn.jpg", "Lorenzo_Garcia_02_tn.jpg", "Lorenzo_Garcia_03_tn.jpg", "Lorenzo_Garcia_04_tn.jpg"]
+  },{
+    "title" : "Abstract",
+    "name": "Jaber ahmed",
+    "shortname" : "Jaber",
+    "summary": "Open up your boxes and folders of old photos – the older, the better! As you look over them, think about how you’ve progressed as a photographer",
+    "description": "<p>With each photo, ask yourself what you would do differently if you were taking it now, with all you’ve learned since that time. Be honest with your self-critique; admit to yourself when something doesn’t work out, but be sure to congratulate yourself when something does. Feelings of accomplishment build your confidence to create new things.</p>",    
+    "artwork" : ["Hillary_Goldwynn_01_tn.jpg" , "Hillary_Goldwynn_02_tn.jpg" , "Hillary_Goldwynn_03_tn.jpg" , "Hillary_Goldwynn_04_tn.jpg" , "Hillary_Goldwynn_05_tn.jpg" , "Hillary_Goldwynn_06_tn.jpg" , "Hillary_Goldwynn_07_tn.jpg"]
+  },{
+    "title" : "Nature",
+    "name": "Mostafa Mamun",
+    "shortname" : "Mostafa",
+    "summary": "There are many styles of photography – portraiture, nature, street, abstract… the list can go on and on. If you’re getting too embedded in your usual style, step out of it and try something completely different",
+    "description": "<p>If you usually photograph people, photograph animals or still life instead. If you’re into landscapes, you could try your hand at street or architecture photography. You could even shoot exclusively in black and white for a while. Just do something you’ve never done before!
+
+Try some new processing techniques too!</p>",
+    "artwork" : ["Riley_Rewington_01_tn.jpg","Riley_Rewington_02_tn.jpg","Riley_Rewington_03_tn.jpg","Riley_Rewington_04_tn.jpg","Riley_Rewington_05_tn.jpg","Riley_Rewington_06_tn.jpg"]
+  }],
+
+  "social" : [{
+    "shortname" : "twitter",
+    "img" : "/images/socialmedia/twitter.png",
+    "url" : "https://twitter.com/tanmoyzadid"
+  },{
+    "shortname" : "facebook",
+    "img" : "/images/socialmedia/facebook.png",
+    "url" : "https://www.facebook.com/jaber17"
+  },{
+    "shortname" : "meetup",
+    "img" : "/images/socialmedia/meetup.png",
+    "url" : "https://www.facebook.com/jaber17"
+  }],
+
+  "meeting" : {
+    "date": "Thursday, May 27th",
+    "time": "6-9pm",
+    "where": {
+      "name": "Sello Library",
+      "img": "/images/misc/hotel_gwendoline.jpg",
+      "address": "Sello Leppavara"
+    }
+  }
+}

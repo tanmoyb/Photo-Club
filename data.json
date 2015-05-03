@@ -1,0 +1,48 @@
+{
+  "speakers": [{
+    "title" : "Memories",
+    "name": "Tanmoy",
+    "shortname" : "Tanmoy",
+    "summary" : "Metropolia TI13s1",
+    "description": "<p>Murad Benjadid Tanmoy Metropolia University Of applied sciendes second year</p>",
+    "artwork": ["Lorenzo_Garcia_01_tn.jpg", "Lorenzo_Garcia_02_tn.jpg", "Lorenzo_Garcia_03_tn.jpg", "Lorenzo_Garcia_04_tn.jpg"]
+  },{
+    "title" : "abstract",
+    "name": "Jaber Ahmed",
+    "shortname" : "Jaber",
+    "summary": "TJ13S1",
+    "description": "<p>Jaber Ahmed Metropolia University Of Applied sciences Media Engineering</p>",    
+    "artwork" : ["Hillary_Goldwynn_01_tn.jpg" , "Hillary_Goldwynn_02_tn.jpg" , "Hillary_Goldwynn_03_tn.jpg" , "Hillary_Goldwynn_04_tn.jpg" , "Hillary_Goldwynn_05_tn.jpg" , "Hillary_Goldwynn_06_tn.jpg" , "Hillary_Goldwynn_07_tn.jpg"]
+  },{
+    "title" : "Nature",
+    "name": "Mostafa",
+    "shortname" : "Mostafa",
+    "summary": "TI11S1",
+    "description": "<p>Information Technology Second year</p>",
+    "artwork" : ["Riley_Rewington_01_tn.jpg","Riley_Rewington_02_tn.jpg","Riley_Rewington_03_tn.jpg","Riley_Rewington_04_tn.jpg","Riley_Rewington_05_tn.jpg","Riley_Rewington_06_tn.jpg"]
+  }],
+
+  "social" : [{
+    "shortname" : "twitter",
+    "img" : "/images/socialmedia/twitter.png",
+    "url" : "http://www.twitter.com/tanmoyzadid"
+  },{
+    "shortname" : "facebook",
+    "img" : "/images/socialmedia/facebook.png",
+    "url" : "http://www.facebook.com/jaber17"
+  },{
+    "shortname" : "meetup",
+    "img" : "/images/socialmedia/meetup.png",
+    "url" : "http://www.facebook.com/jaber17"
+  }],
+
+  "meeting" : {
+    "date": "Friday, april 27th",
+    "time": "6-9pm",
+    "where": {
+      "name": "Sello Library",
+      "img": "/images/misc/hotel_gwendoline.jpg",
+      "address": "Sello Leppavara"
+    }
+  }
+}
