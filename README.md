@@ -1,4 +1,4 @@
-# nodejsPhotographerClub
+# Photo-Club
 
 A website displaying events for the Finnish Photographer Club.
 
